@@ -9,20 +9,21 @@
         隱形眼鏡品牌<br>
         (Brand)<br>
            市面上常見品牌，以連鎖眼鏡行為基準<br>
+
         週期<br>
         (Day)<br>
           日拋、月拋、季拋、月拋<br>
+
         款式<br>
         (Design)<br>
 
-![](jpg/project1.jpg)
-![](jpg/project1-ch.jpg)
+
 + 附圖project1 -> 為大致上的雛形 <br>
     想加入:透明/彩色、度數、價格、含水率、鏡片類型(一般球面、散光、多焦/老花)<br>
     以及以點週邊相關:保養液、食鹽水、隱形眼鏡盒、隱形眼鏡用夾<br>
 
-![](jpg/project2.jpg)
-![](jpg/project2-ch.jpg)
+![](jpg/project1.jpg)
+
 + 附圖project2 -> 加入類型及度數<br>
     度數<br>
     (Diopters)<br>
@@ -31,5 +32,9 @@
     (Type)<br>
      透明片(clear_id) / 彩色片(color_id)<br>
 
-#### 3.專案名稱
-+    Lenses
+
+新增的度數及類型用**標註<br>
+![](jpg/project2.jpg)
+圖中標示1為type多分成了透明片clear_id跟彩色片color_id<br>
+(定義的英文和該詞實際英文不盡相同，因此標示中文)<br>
+![](jpg/project2-ch.jpg)
