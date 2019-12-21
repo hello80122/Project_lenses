@@ -35,6 +35,7 @@
 ###### 新增的度數及類型用**標註<br>
 ![](jpg/project2.jpg)<br>
 <pre><code>下圖中標示1為type多分成了透明片clear_id跟彩色片color_id<br>
+標示2為比照圖1的想法下去給分支<br>
 (定義的英文和該詞實際英文不盡相同，因此標示中文，這部分有點混亂不太會排，還請老師笑)<br></code></pre>
 
 ![](jpg/project2-0.jpg)<br>
