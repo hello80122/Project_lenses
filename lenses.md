@@ -18,23 +18,23 @@
         (Design)<br>
 
 
-+ 附圖project1 -> 為大致上的雛形 <br>
++ <pre><code>附圖project1 -> 為大致上的雛形 <br>
     想加入:透明/彩色、度數、價格、含水率、鏡片類型(一般球面、散光、多焦/老花)<br>
-    以及以點週邊相關:保養液、食鹽水、隱形眼鏡盒、隱形眼鏡用夾<br>
+    以及以點週邊相關:保養液、食鹽水、隱形眼鏡盒、隱形眼鏡用夾<br></code></pre>
 
 ![](jpg/project1.jpg)
 
-+ 附圖project2 -> 加入類型及度數<br>
++ <pre><code>附圖project2 -> 加入類型及度數<br>
     度數<br>
     (Diopters)<br>
       常見度數 : 0 , -1.00 ~ -10.00<br>
    類型<br>
     (Type)<br>
-     透明片(clear_id) / 彩色片(color_id)<br>
+     透明片(clear_id) / 彩色片(color_id)<br></code></pre>
 
 
 ###### 新增的度數及類型用**標註<br>
 ![](jpg/project2.jpg)<br>
-圖中標示1為type多分成了透明片clear_id跟彩色片color_id<br>
+<pre><code>圖中標示1為type多分成了透明片clear_id跟彩色片color_id<br>
 (定義的英文和該詞實際英文不盡相同，因此標示中文)<br>
-![](jpg/project2-0.jpg)<br>
+![](jpg/project2-0.jpg)<br></code></pre
