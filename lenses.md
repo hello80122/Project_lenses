@@ -15,14 +15,14 @@
         款式<br>
         (Design)<br>
 
-(jpg/project1.jpg)
-(jpg/project1-ch.jpg)
+![](jpg/project1.jpg)
+![](jpg/project1-ch.jpg)
 + 附圖project1 -> 為大致上的雛形 <br>
     想加入:透明/彩色、度數、價格、含水率、鏡片類型(一般球面、散光、多焦/老花)<br>
     以及以點週邊相關:保養液、食鹽水、隱形眼鏡盒、隱形眼鏡用夾<br>
 
-(jpg/project2.jpg)
-(jpg/project2-ch.jpg)
+![](jpg/project2.jpg)
+![](jpg/project2-ch.jpg)
 + 附圖project2 -> 加入類型及度數<br>
     度數<br>
     (Diopters)<br>
