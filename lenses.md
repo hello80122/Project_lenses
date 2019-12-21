@@ -1,16 +1,16 @@
 #### 1.專案說明
 +   隱形眼鏡的資料庫，像小林眼鏡、文雄眼鏡的官網，單純隱形眼鏡的網站製作，不包含眼鏡鏡框。<br>
-小林眼鏡<br>
+  + 小林眼鏡<br>
 
-![](jpg/typelin0.jpg)
+![](jpg/typelin0.JPG)
 
-![](jpg/typelin1.jpg)
+![](jpg/typelin1.JPG)
 
-文雄眼鏡<br>
+  + 文雄眼鏡<br>
 
-![](jpg/typewen0.jpg)
+![](jpg/typewen0.JPG)
 
-![](jpg/typewen1.jpg)
+![](jpg/typewen1.JPG)
 
 #### 2.資料內容
 +   相關欄位<br>
